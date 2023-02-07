@@ -1,0 +1,29 @@
+H1, H2 {
+    color: #ff0000;
+    font-size: 200%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+  }
+
+H3, H4 {
+    color: #5e0083;
+    font-size: 150%;
+    font-family: sans-serif;
+    text-align: left;
+  }
+
+ul, ol {
+    color: #004120;
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+  }
+
+
+body {background-color: rgb(168, 255, 255);
+  }
+
+P {font-family: Arial, Verdana;
+    padding-left: 10px;
+    font-size: 120%;
+  }
